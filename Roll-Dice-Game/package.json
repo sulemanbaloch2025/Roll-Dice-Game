@@ -1,0 +1,11 @@
+"scripts": {
+  
+  "start": "node your-script.js"
+}
+
+
+{
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
+}
